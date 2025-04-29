@@ -1,0 +1,9 @@
+[
+    {
+      "name": "Nome do Funcionário",
+      "cpf": "123.456.789-00",
+      "grossSalary": 5000,
+      "socialSecurityDiscount": 500,
+      "dependents": 2
+    }
+  ]
