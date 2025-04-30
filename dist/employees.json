@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "name": "João ribeiro ",
+      "cpf": "123.456.789-00",
+      "grossSalary": 5000,
+      "socialSecurityDiscount": 400,
+      "dependents": 2
+    },
+    {
+      "id": 2,
+      "name": "Maria Souza lima",
+      "cpf": "987.654.321-00",
+      "grossSalary": 6000,
+      "socialSecurityDiscount": 450,
+      "dependents": 1
+    }
+  ]
+  
